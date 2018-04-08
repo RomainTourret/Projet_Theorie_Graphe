@@ -1,0 +1,526 @@
+# depslib dependency file v1.0
+1522750952 source:c:\users\thibault\desktop\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522750952 c:\users\thibault\desktop\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522750952 source:c:\users\thibault\desktop\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522750952 c:\users\thibault\desktop\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522750952 c:\users\thibault\desktop\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750952 c:\users\thibault\desktop\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522750952 c:\users\thibault\desktop\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522750952 source:c:\users\thibault\desktop\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522750952 source:c:\users\thibault\desktop\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522750952 source:c:\users\thibault\desktop\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522773834 source:c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522770384 c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522750952 c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750952 c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522750952 c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522750952 c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522750952 source:c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522750952 source:c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522750952 source:c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522773774 source:c:\users\thibault\desktop\documents\informatique\ing2 s2\projet\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522750954 source:c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522750954 c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522750954 source:c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522750954 c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750954 c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522750954 c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522750954 source:c:\users\rt160160\desktop\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522782827 source:c:\users\rt160160\desktop\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1522782827 c:\users\rt160160\desktop\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522837940 source:c:\users\rt160160\desktop\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1523004821 source:c:\users\thibault\desktop\le seul le vrai\graph.cpp
+	"graph.h"
+	<fstream>
+	<stdlib.h>
+
+1523004821 c:\users\thibault\desktop\le seul le vrai\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522750954 c:\users\thibault\desktop\le seul le vrai\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750954 c:\users\thibault\desktop\le seul le vrai\grman\grman_couleurs.h
+
+1522750954 c:\users\thibault\desktop\le seul le vrai\grman\coords.h
+	<cmath>
+
+1522935799 c:\users\thibault\desktop\le seul le vrai\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522750954 source:c:\users\thibault\desktop\le seul le vrai\grman\coords.cpp
+	"coords.h"
+
+1522860968 source:c:\users\thibault\desktop\le seul le vrai\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522935799 source:c:\users\thibault\desktop\le seul le vrai\grman\widget.cpp
+	"widget.h"
+
+1523005150 source:c:\users\thibault\desktop\le seul le vrai\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<stdlib.h>
+	"graph.h"
+
+1523012476 source:c:\users\rt160160\desktop\le seul le vrai (v 2.5)\graph.cpp
+	"graph.h"
+	<fstream>
+	<stdlib.h>
+
+1523011392 c:\users\rt160160\desktop\le seul le vrai (v 2.5)\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\grman_couleurs.h
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\coords.h
+	<cmath>
+
+1522935800 c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522750954 source:c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\coords.cpp
+	"coords.h"
+
+1522860970 source:c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522935800 source:c:\users\rt160160\desktop\le seul le vrai (v 2.5)\grman\widget.cpp
+	"widget.h"
+
+1523012205 source:c:\users\rt160160\desktop\le seul le vrai (v 2.5)\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<stdlib.h>
+	"graph.h"
+
+1522750954 source:c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\coords.cpp
+	"coords.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\coords.h
+	<cmath>
+
+1522860970 source:c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\grman_couleurs.h
+
+1522935800 c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522935800 source:c:\users\rt160160\desktop\le seul le vrai (v 2.8)\grman\widget.cpp
+	"widget.h"
+
+1522750954 source:c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\coords.cpp
+	"coords.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\coords.h
+	<cmath>
+
+1522860970 source:c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522750954 c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\grman_couleurs.h
+
+1523026037 c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523026037 source:c:\users\rt160160\desktop\le seul le vrai (v 2.9)\grman\widget.cpp
+	"widget.h"
+
+1523029440 source:c:\users\rt160160\desktop\le seul le vrai (v 2.9)\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<stdlib.h>
+	"graph.h"
+
+1523029643 c:\users\rt160160\desktop\le seul le vrai (v 2.9)\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523028814 source:c:\users\rt160160\desktop\le seul le vrai (v 2.9)\graph.cpp
+	"graph.h"
+	<fstream>
+	<stdlib.h>
+
+1523117171 source:c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\coords.cpp
+	"coords.h"
+
+1523117171 c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\coords.h
+	<cmath>
+
+1523117171 source:c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523117171 c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523117171 c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\grman_couleurs.h
+
+1523117171 c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523117171 source:c:\users\thibault\desktop\le seul le vrai (v 2.9)\grman\widget.cpp
+	"widget.h"
+
+1523111356 source:e:\le seul le vrai (v 2.91)\grman\coords.cpp
+	"coords.h"
+
+1523111354 e:\le seul le vrai (v 2.91)\grman\coords.h
+	<cmath>
+
+1523111354 source:e:\le seul le vrai (v 2.91)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523111352 e:\le seul le vrai (v 2.91)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523111350 e:\le seul le vrai (v 2.91)\grman\grman_couleurs.h
+
+1523111348 e:\le seul le vrai (v 2.91)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523111348 source:e:\le seul le vrai (v 2.91)\grman\widget.cpp
+	"widget.h"
+
+1523119528 source:e:\le seul le vrai (v 2.91)\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<stdlib.h>
+	"graph.h"
+
+1523119592 e:\le seul le vrai (v 2.91)\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523111356 source:f:\le seul le vrai (v 3.0)\grman\coords.cpp
+	"coords.h"
+
+1523111354 f:\le seul le vrai (v 3.0)\grman\coords.h
+	<cmath>
+
+1523111354 source:f:\le seul le vrai (v 3.0)\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523111352 f:\le seul le vrai (v 3.0)\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523111350 f:\le seul le vrai (v 3.0)\grman\grman_couleurs.h
+
+1523111348 f:\le seul le vrai (v 3.0)\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523111348 source:f:\le seul le vrai (v 3.0)\grman\widget.cpp
+	"widget.h"
+
+1523119528 source:f:\le seul le vrai (v 3.0)\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<stdlib.h>
+	"graph.h"
+
+1523119592 f:\le seul le vrai (v 3.0)\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
